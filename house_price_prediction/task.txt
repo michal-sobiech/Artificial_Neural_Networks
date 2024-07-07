@@ -1,0 +1,2 @@
+The task is to train a model for predicting house prices.
+Training data is in df_train.csv.
