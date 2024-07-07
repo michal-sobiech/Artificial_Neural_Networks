@@ -1,0 +1,2 @@
+The task is to predict the compositor of a music piece.
+Training data is in train.pkl.
