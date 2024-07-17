@@ -1,0 +1,1 @@
+The task is to assign each image 1 of 50 classes.

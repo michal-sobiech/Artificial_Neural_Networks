@@ -1,0 +1,1 @@
+The task is to divide houses into 3 price categories.
